@@ -1,0 +1,15 @@
+{
+  "name": "lesson_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "andyiac",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "utility": "^1.7.0"
+  }
+}
